@@ -1,6 +1,10 @@
-<h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+mobile+Developer...;)](https://git.io/typing-svg)
-</h3>
+![IronTiger](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+
+
+
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+mobile+Developer...;)](https://git.io/typing-svg)
 
 <hr>
 <h2>[WEB & MOBILE]</h2>  
@@ -68,7 +72,7 @@
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="NextJS" height="25" src="images/NextJS.png"></code>
+  <code><img title="NextJS" height="25" src="images/nextjs.png"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
