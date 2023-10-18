@@ -48,7 +48,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align=center>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Irontiger0330&theme=nord&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=fullstack0330&theme=nord&column=7" />
 </p>
 <hr>
 
@@ -58,12 +58,12 @@
   <div align=center>
     
 
-  |   ![Irontiger0330's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irontiger0330&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irontiger0330&theme=nightowl)](https://git.io/streak-stats)     |
+  |   ![fullstack0330's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack0330&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullstack0330&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
   </div>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irontiger0330&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack0330&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
