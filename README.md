@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
 </p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+fullstack+developer;I+am+blockchain+developer...;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+fullstack+developer;I+am+blockchain+developer...;)](https://git.io/typing-svg)
 <hr>
 
 ## Core Skills
