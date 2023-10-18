@@ -1,4 +1,18 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+fullstack+developer;I+am+blockchain+developer...;)](https://git.io/typing-svg)
+<hr>
+
+## Core Skills
+
+- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Retool
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, Node.js / Express, Python / Django, Flask
+- 🌱 <b>Blockchain</b> : Smart Contract, Web3, NFT, Metaverse
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
+- 📫 <b>AI</b> : OpenAI, LangChain, LLM
+
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
