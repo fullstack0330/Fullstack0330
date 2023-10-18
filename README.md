@@ -6,7 +6,7 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Vue.js, Next.js, Nuxt.js, svelte.js
+- 🔭 <b>Frontend</b> : React.js, Vue.js, Next.js, Nuxt.js, Sveltekit.js, 
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, Node.js / Express, Nest.js, Python / Django, Ruby / Ruby on Rails
 - 🌱 <b>Blockchain</b> : Smart Contract, Web3, NFT, Metaverse
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB
@@ -47,6 +47,7 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Svelte" height="25" src="images/svelte.png"></code>
 </p>
 <hr>
 
